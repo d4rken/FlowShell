@@ -1,0 +1,5 @@
+rootProject.name = "FlowShell"
+
+include ':core'
+include ':root'
+include ':demoapp'
